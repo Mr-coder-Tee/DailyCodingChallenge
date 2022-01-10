@@ -1,0 +1,5 @@
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\leetcode\leetcode\obj\Debug\netcoreapp3.1\leetcode.csproj.AssemblyReference.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\leetcode\leetcode\obj\Debug\netcoreapp3.1\leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\leetcode\leetcode\obj\Debug\netcoreapp3.1\leetcode.AssemblyInfoInputs.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\leetcode\leetcode\obj\Debug\netcoreapp3.1\leetcode.AssemblyInfo.cs
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\leetcode\leetcode\obj\Debug\netcoreapp3.1\leetcode.csproj.CoreCompileInputs.cache

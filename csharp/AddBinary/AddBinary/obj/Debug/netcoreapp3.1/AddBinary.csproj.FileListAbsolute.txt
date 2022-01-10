@@ -1,0 +1,14 @@
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.exe
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.deps.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.runtimeconfig.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.runtimeconfig.dev.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.dll
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\bin\Debug\netcoreapp3.1\AddBinary.pdb
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.csproj.AssemblyReference.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.AssemblyInfoInputs.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.AssemblyInfo.cs
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.csproj.CoreCompileInputs.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.dll
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.pdb
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\AddBinary\AddBinary\obj\Debug\netcoreapp3.1\AddBinary.genruntimeconfig.cache

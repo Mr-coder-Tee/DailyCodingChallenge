@@ -1,0 +1,14 @@
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.exe
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.deps.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.AssemblyReference.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache
