@@ -1,0 +1,14 @@
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\bin\Debug\netcoreapp3.1\JellyBeanProblem.exe
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\bin\Debug\netcoreapp3.1\JellyBeanProblem.deps.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\bin\Debug\netcoreapp3.1\JellyBeanProblem.runtimeconfig.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\bin\Debug\netcoreapp3.1\JellyBeanProblem.runtimeconfig.dev.json
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\bin\Debug\netcoreapp3.1\JellyBeanProblem.dll
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\bin\Debug\netcoreapp3.1\JellyBeanProblem.pdb
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.csproj.AssemblyReference.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.AssemblyInfoInputs.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.AssemblyInfo.cs
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.csproj.CoreCompileInputs.cache
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.dll
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.pdb
+C:\Users\TERRENCE\Documents\DailyCodingChallenge\csharp\JellyBeanProblem\JellyBeanProblem\obj\Debug\netcoreapp3.1\JellyBeanProblem.genruntimeconfig.cache
